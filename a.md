@@ -10,3 +10,4 @@ https://aiseo.ai/tools/expand-sentence.html
 
 
 kriptografi slayt, ana şeması, simetrik > blok ve tekbit, asimetrik , protokoller, LFSR nedir?, boolen nedir? şifrelemede nerde kullanılır?,
+https://bidb.itu.edu.tr/seyir-defteri/blog/2013/09/07/%C5%9Fifreleme-y%C3%B6ntemleri
