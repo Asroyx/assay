@@ -7,3 +7,6 @@ I was well-prepared for the college experience with my heavy emphasis
 on the web design and database knowledge.
 All that I will gain from this process is to improve my writing
 https://aiseo.ai/tools/expand-sentence.html
+
+
+kriptografi slayt, ana şeması, simetrik > blok ve tekbit, asimetrik , protokoller, LFSR nedir?, boolen nedir? şifrelemede nerde kullanılır?,
