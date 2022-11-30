@@ -8,6 +8,8 @@ on the web design and database knowledge.
 All that I will gain from this process is to improve my writing
 https://aiseo.ai/tools/expand-sentence.html
 
+My field of study was Web Designer at Vocational high school. I selected most relevant to this major as soon as I entered Balikesir University in 2021. I enjoyed database and algorithm in high school, and as a result I became involved with a project when I was in 12th grade called
+
 
 kriptografi slayt, ana şeması, simetrik > blok ve tekbit, asimetrik , protokoller, LFSR nedir?, boolen nedir? şifrelemede nerde kullanılır?,
 https://bidb.itu.edu.tr/seyir-defteri/blog/2013/09/07/%C5%9Fifreleme-y%C3%B6ntemleri <br>
